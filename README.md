@@ -1,1 +1,1 @@
-# Java8InAction
+# Java8inAction
